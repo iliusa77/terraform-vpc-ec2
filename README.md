@@ -1,3 +1,5 @@
+Define SSH public key in https://github.com/iliusa77/terraform-vpc-ec2/blob/main/ec2.tf#L3
+
 ### Terraform init/plan/apply
 ```
 terraform init
