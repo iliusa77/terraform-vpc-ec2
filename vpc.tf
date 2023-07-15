@@ -31,9 +31,8 @@ resource "aws_security_group_rule" "default" {
   to_port           = 22
   protocol          = "tcp"
   cidr_blocks       = ["0.0.0.0/0"]
-  security_group_id = module.vpc.default_security_group_id
 
   depends_on = [
     module.vpc
-  ]
+  ] 
 }
