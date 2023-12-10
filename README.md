@@ -1,3 +1,5 @@
+This repository contains Terraform modules/resources for Amazon VPC and EC2 instance deploy
+
 Define SSH public key in https://github.com/iliusa77/terraform-vpc-ec2/blob/main/ec2.tf#L3
 
 ### Terraform init/plan/apply
