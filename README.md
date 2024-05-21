@@ -9,6 +9,7 @@ Define you own values in `vars.tf`
 - put ec2-docker-ssh-key.pub in public_key
 - project
 - region
+
 and so on ...
 
 ### Terraform init/plan/apply
